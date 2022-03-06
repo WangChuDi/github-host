@@ -1,6 +1,4 @@
 
-#*********************github 2022-03-02 update********************
-#******* get latest hosts: http://blog.yoqi.me/lyq/16489.html
 151.101.1.194	github.global.ssl.fastly.net
 2606:50c0:8003::153	assets-cdn.github.com
 2606:50c0:8000::153	documentcloud.github.com
@@ -43,3 +41,5 @@
 140.82.114.30	githubapp.com
 52.151.41.89	github.dev
 192.30.255.113	github.com
+#*********************github 2022-03-06 update********************
+#******* get latest hosts: http://blog.yoqi.me/lyq/16489.html
